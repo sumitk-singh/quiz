@@ -13,7 +13,13 @@ var questionBank = [{
 {
   question: 'Have i ever visited to china? ',
   answer: 'no'
-}]
+},
+{
+  question: 'i prefer to take tea or coffee ! ',
+  answer: 'coffee'
+}
+
+]
 
 //welcome
 function welcome(){
